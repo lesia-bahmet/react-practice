@@ -1,0 +1,16 @@
+{
+  "nav.bridge": "Мостик",
+  "nav.profile": "Профиль",
+  "nav.panel": "Панель",
+  "nav.language": "По-украински",
+  "tile.name": "Имя:",
+  "tile.class": "Класс:",
+  "tile.manufacturer": "Производитель:",
+  "tile.crew": "Команда:",
+  "profile.update": "Обновить",
+  "profile.updating": "Обновляю...",
+  "panel.call": "Вызвать корабли",
+  "panel.calling": "Вызываю...",
+  "bridge.welcome": "Добро пожаловать на борт",
+  "bridge.control": "Контрольная панель"
+}

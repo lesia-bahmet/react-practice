@@ -1,0 +1,16 @@
+{
+  "nav.bridge": "Місток",
+  "nav.profile": "Профіль",
+  "nav.panel": "Панель",
+  "nav.language": "Росiйською",
+  "tile.name": "Ім'я:",
+  "tile.class": "Класс:",
+  "tile.manufacturer": "Виробник:",
+  "tile.crew": "Команда:",
+  "profile.update": "Оновити",
+  "profile.updating": "Оновлюю...",
+  "panel.call": "Викликати кораблі",
+  "panel.calling": "Викликаю...",
+  "bridge.welcome": "Ласкаво просимо на борт",
+  "bridge.control": "Контрольна панель"
+}

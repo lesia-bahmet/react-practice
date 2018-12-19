@@ -30,8 +30,11 @@
         "gsap": "^2.0.2",
         "react": "16.5.2",
         "react-dom": "16.5.2",
+        "react-redux": "^6.0.0",
         "react-spring": "^6.1.8",
         "react-transition-group": "^2.5.0",
+        "redux": "^4.0.1",
+        "redux-saga": "^0.16.2",
         "sanitize.css": "8.0.0",
         "styled-components": "^4.1.1"
     },
